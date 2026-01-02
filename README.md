@@ -1,4 +1,4 @@
-# Yorcela Showcase
+# n8n Showcase
 
 ## About this project
 This repository is a showcase project built to demonstrate my backend practices, to show how I structure services, handle auth, and manage tooling; parts of it were authored with generative AI following my technical instructions, especially the tests (you'll find the prompt I use here `.prompts/tests-guidelines.prompt.md`).
